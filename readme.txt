@@ -14,10 +14,6 @@ Admin Notice is a very simple plugin that allows you to display custom notices o
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload `admin-notice` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Plugin options will be available under Dashboard → Admin Notice
